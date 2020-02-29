@@ -10,5 +10,6 @@ int main(int argc, char *argv[])
     view.show();
 
     //first commit
+    //second commit
     return a.exec();
 }
